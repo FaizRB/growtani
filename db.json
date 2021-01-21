@@ -39,29 +39,5 @@
     "berat": 1,
     "diskon": "10%",
     "img":"v5.jpg"
-  },
-  {
-    "title":"Cabe Merah",
-    "harga":20000,
-    "satuan": "kg",
-    "berat": 1,
-    "diskon": "10%",
-    "img":"v6.jpg"
-  },
-  {
-    "title":"Cabe Merah",
-    "harga":20000,
-    "satuan": "kg",
-    "berat": 1,
-    "diskon": "10%",
-    "img":"v7.jpg"
-  },
-  {
-    "title":"Cabe Merah",
-    "harga":20000,
-    "satuan": "kg",
-    "berat": 1,
-    "diskon": "10%",
-    "img":"v8.jpg"
   }
 ]
