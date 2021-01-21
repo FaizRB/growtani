@@ -8,18 +8,25 @@
       "img":"v1.jpg"
     },
     {
-      "title":"Cabe Merah",
+      "title":"Bawang Merah",
       "harga":20000,
       "berat": 1,
       "diskon": "10%",
       "img":"v2.jpg"
     },
     {
-      "title":"Cabe Merah",
+      "title":"Bunga Kol",
       "harga":20000,
       "berat": 1,
       "diskon": "10%",
       "img":"v5.jpg"
+    },
+    {
+      "title":"Wortel",
+      "harga":20000,
+      "berat": 1,
+      "diskon": "10%",
+      "img":"v3.jpg"
     }
   ],
   "comments": [
