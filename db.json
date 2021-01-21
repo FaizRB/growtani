@@ -1,43 +1,51 @@
-
-[
-  {
-    "title":"Cabe Merah",
-    "harga":20000,
-    "satuan": "kg",
-    "berat": 1,
-    "diskon": "10%",
-    "img":"v1.jpg"
-  },
-  {
-    "title":"Cabe Merah",
-    "harga":20000,
-    "satuan": "kg",
-    "berat": 1,
-    "diskon": "10%",
-    "img":"v2.jpg"
-  },
-  {
-    "title":"Cabe Merah",
-    "harga":20000,
-    "satuan": "kg",
-    "berat": 1,
-    "diskon": "10%",
-    "img":"v3.jpg"
-  },
-  {
-    "title":"Cabe Merah",
-    "harga":20000,
-    "satuan": "kg",
-    "berat": 1,
-    "diskon": "10%",
-    "img":"v4.jpg"
-  },
-  {
-    "title":"Cabe Merah",
-    "harga":20000,
-    "satuan": "kg",
-    "berat": 1,
-    "diskon": "10%",
-    "img":"v5.jpg"
+{
+  "produk": [
+    {
+      "title":"Cabe Merah",
+      "harga":20000,
+      "satuan": "kg",
+      "berat": 1,
+      "diskon": "10%",
+      "img":"v1.jpg"
+    },
+    {
+      "title":"Cabe Merah",
+      "harga":20000,
+      "satuan": "kg",
+      "berat": 1,
+      "diskon": "10%",
+      "img":"v2.jpg"
+    },
+    {
+      "title":"Cabe Merah",
+      "harga":20000,
+      "satuan": "kg",
+      "berat": 1,
+      "diskon": "10%",
+      "img":"v3.jpg"
+    },
+    {
+      "title":"Cabe Merah",
+      "harga":20000,
+      "satuan": "kg",
+      "berat": 1,
+      "diskon": "10%",
+      "img":"v4.jpg"
+    },
+    {
+      "title":"Cabe Merah",
+      "harga":20000,
+      "satuan": "kg",
+      "berat": 1,
+      "diskon": "10%",
+      "img":"v5.jpg"
+    }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
