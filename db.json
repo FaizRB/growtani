@@ -1,0 +1,66 @@
+[
+      {
+        title:'Cabe Merah',
+        harga:this.formatRupiah(20000),
+        satuan: 'kg',
+        berat: 1,
+        diskon: '10%',
+        img:'v1.jpg'
+      },
+      {
+        title:'Bawang Merah',
+        harga:this.formatRupiah(20000),
+        satuan: 'kg',
+        berat: 1,
+        diskon: '10%',
+        img:'v2.jpg'
+      },
+      {
+        title:'Bunga Kol',
+        harga:this.formatRupiah(20000),
+        satuan: 'kg',
+        berat: 1,
+        diskon: '10%',
+        img:'v3.jpg'
+      },
+      {
+        title:'Wrotel',
+        harga:this.formatRupiah(20000),
+        satuan: 'kg',
+        berat: 1,
+        diskon: '10%',
+        img:'v4.jpg'
+      },
+      {
+        title:'Tomat',
+        harga:this.formatRupiah(20000),
+        satuan: 'kg',
+        berat: 1,
+        diskon: '10%',
+        img:'v5.jpg'
+      },
+      {
+        title:'Kola',
+        harga:this.formatRupiah(20000),
+        satuan: 'kg',
+        berat: 1,
+        diskon: '10%',
+        img:'v6.jpg'
+      },
+      {
+        title:'Lombok Keriting',
+        harga:this.formatRupiah(20000),
+        satuan: 'kg',
+        berat: 1,
+        diskon: '10%',
+        img:'v7.jpg'
+      },
+      {
+        title:'Bawang Bombay',
+        harga:this.formatRupiah(20000),
+        satuan: 'kg',
+        berat: 1,
+        diskon: '10%',
+        img:'v8.jpg'
+      }
+    ]
